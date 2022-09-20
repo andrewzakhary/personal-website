@@ -1,0 +1,153 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-weight: bold;
+}
+h1{
+    font-family: 'Pacifico',sans-serif;
+    font-size: 80px;
+    margin: 150px auto 10px;
+    color: #66BFBF;
+
+}
+.topContainer h3{
+    font-size: 1.3rem;
+    color: #66BFBF;
+    font-weight: normal;
+    font-family: 'Open Sans',sans-serif;
+    margin-top: 0%;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Open Sans',sans-serif;
+
+}
+h3{
+    font-family: 'Open Sans',sans-serif;
+    color: #66BFBF;
+
+}
+.skills{
+    width: 100%;
+    height: 330px;
+
+}
+.skills h2{
+    margin-bottom: 90px;
+}
+.first{
+    float: left;
+}
+.second{
+    float: right;
+}
+.skill-row{
+    width: 50%;
+    text-align: left;
+}
+.skill-row p{
+    line-height: 2;
+    margin-right: 20px;
+}
+.skill-row img{
+    width: 25%;
+    float: left;
+    margin: 10px 30px;
+    height: 100%;
+}
+
+
+.topContainer{
+    background-color: #E4f9f5;
+    position: relative;
+}
+
+.topCloud{
+    position: relative;
+    left: 20%;
+    top: 100px;
+}
+.centerText{
+    margin: 30px 0;
+}
+.bottomCloud{
+    position: absolute;
+left: 25%;
+}
+.middle-container{
+    margin-top: 100px;
+}
+.skills p{
+    margin-top: 50px;
+}
+.contact-me h3{
+    margin: 40px;
+}
+.profilePhoto{
+    height: 150px;
+    width: 150;
+    border-radius: 100%;
+}
+.bottom-container a{
+    
+    color: #11999E;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Open Sans',sans-serif;
+    margin:0 50px;
+}
+hr{
+    border-style: dotted;
+    border-width: 8px 0 0 0;
+    border-color: #e7ecec;
+    width: 80px;
+    letter-spacing: 5px;
+    margin: 80px auto;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    height: 150px;
+    width: 100%;
+    position: relative;
+}
+.links{
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    height: fit-content;
+}
+.bottom-container p{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    color: #E4f9f5;
+    font-family: 'Open Sans',sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+}
+.btn-class{
+    width: 150px;
+    height: 40px;
+    background-color: #11999E;
+    margin: 50px auto;
+    border-radius: 25px;
+    position: relative;
+}
+.btn{
+    color: white;
+    text-decoration: none;
+    font-family: 'Open Sans',sans-serif;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+    top: 0;
+    margin: auto;
+    height: fit-content;
+}

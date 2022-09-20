@@ -1,0 +1,29 @@
+div{
+    height: 200px;
+    width: 50%;
+}
+.first{
+    background-color: red;
+    float: left;
+}
+.second{
+    background-color: aqua;
+    float: right;
+}
+.third{
+    width: 80%;
+    background-color: bisque;
+    display: block;
+}
+.fourth{
+    background-color: blue;
+}
+.container{
+    width: 100%;
+    background-color: black;
+}
+.bottom-container{
+    background-color: #11999E;
+    height: 200px;
+    width: 100%;
+}
