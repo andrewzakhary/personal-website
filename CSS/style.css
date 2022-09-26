@@ -78,10 +78,11 @@ left: 25%;
     margin-top: 100px;
 }
 .skills p{
-    margin-top: 50px;
+    margin-top: 40px;
 }
 .contact-me h3{
     margin: 40px;
+    color: black;
 }
 .profilePhoto{
     height: 150px;
@@ -133,7 +134,7 @@ hr{
 .btn-class{
     width: 150px;
     height: 40px;
-    background-color: #11999E;
+    background-color: #66BFBF;
     margin: 50px auto;
     border-radius: 25px;
     position: relative;
